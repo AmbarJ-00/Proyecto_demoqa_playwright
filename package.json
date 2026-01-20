@@ -1,0 +1,26 @@
+{
+  "name": "proyecto-demoqa-playwritgh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmbarJ-00/Proyecto_demoqa_playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmbarJ-00/Proyecto_demoqa_playwright/issues"
+  },
+  "homepage": "https://github.com/AmbarJ-00/Proyecto_demoqa_playwright#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.5.0",
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.9",
+    "allure-playwright": "^3.4.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
